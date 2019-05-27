@@ -2,4 +2,12 @@ body{
     background-color: darkkhaki;
     color: brown;
     text-decoration:red;
+
+}
+table{
+    border: 2px solid;
+}
+
+td, th {
+    text-align: center;
 }
