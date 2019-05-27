@@ -1,5 +1,5 @@
 # Atividade-1
-## Como visualizar a pagina no navegador.
+## Como visualizar a página no navegador.
 
 1. Baixe todos os arquivos do repositório.<br />
 2. Coloque todos os arquivos em uma mesma pasta.<br />
